@@ -1,0 +1,2 @@
+#include <bits/stdc++.h> 
+int main(){int arr[4][3]={{461, 431, 420},{100, 57, 70},{130, 160, 118},{167, 266, 75}};int sum = 0;for (int i=0;i<4;i++){int n;scanf("%d",&n);if(n == 4) continue;sum += arr[i][n-1];}printf("Your total Calorie count is %d.",sum);return 0;}
