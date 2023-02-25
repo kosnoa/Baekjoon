@@ -60,8 +60,6 @@ int bfs(int x)
             pq.push({-1 * abs(cur.first), -1 * abs(x3)});
         }
     }
-
-    return 0;
 }
 
 int main()
