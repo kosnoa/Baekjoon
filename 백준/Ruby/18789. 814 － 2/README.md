@@ -1,4 +1,4 @@
-# [Ruby IV] 814 - 2 - 18789 
+# [Ruby III] 814 - 2 - 18789 
 
 [문제 링크](https://www.acmicpc.net/problem/18789) 
 
@@ -8,7 +8,11 @@
 
 ### 분류
 
-구성적(constructive), 그래프 이론(graphs), 그래프 탐색(graph_traversal), 휴리스틱(heuristics), 구현(implementation), 무작위화(randomization), 담금질 기법(simulated_annealing)
+구현, 그래프 이론, 그래프 탐색, 해 구성하기, 깊이 우선 탐색, 무작위화, 휴리스틱, 담금질 기법
+
+### 제출 일자
+
+2025년 6월 4일 12:11:49
 
 ### 문제 설명
 
